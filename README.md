@@ -6,5 +6,3 @@ The dataset is divided into five training batches and one test batch, each with 
 We will first convert the images in the dataset to pytorch tensors using torchvision.transforms and then normalize them.
 
 Next, we will use torchvision.datasets for downloading the CIFAR - 10 datasets and apply transform that we defines earlier.
-
-trainset conains the training data testset contains the testing data
