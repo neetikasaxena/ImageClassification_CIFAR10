@@ -6,3 +6,5 @@ The dataset is divided into five training batches and one test batch, each with 
 We will first convert the images in the dataset to pytorch tensors using torchvision.transforms and then normalize them.
 
 Next, we will use torchvision.datasets for downloading the CIFAR - 10 datasets and apply transform that we defines earlier.
+
+* Logs of all Experiment Conducted Link: https://wandb.ai/neetika/CNN_Experiment_Neetika?workspace=user-neetika
